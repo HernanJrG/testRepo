@@ -1,4 +1,5 @@
-﻿Binaries/
+﻿# Unreal Engine standard ignores
+Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
